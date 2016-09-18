@@ -1,0 +1,23 @@
+body {
+  font-family: "Oswald";
+  background-color: rgb(180, 183, 203);
+  text-align: center;
+}
+
+table {
+  margin: auto;
+}
+
+td {
+    border: 1px solid black;
+    width: 100px;
+    text-align: center;
+    margin: 0;
+}
+
+button, input {
+  padding: 5px;
+  font-family: "Oswald";
+  font-size: 20px;
+  text-align: center;
+}
